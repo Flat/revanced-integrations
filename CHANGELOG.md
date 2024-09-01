@@ -1,3 +1,10 @@
+## [1.13.1](https://github.com/Flat/revanced-integrations/compare/v1.13.0...v1.13.1) (2024-09-01)
+
+
+### Bug Fixes
+
+* **twitter:** update filter for doubleclick ads ([5236f12](https://github.com/Flat/revanced-integrations/commit/5236f12f664a08eb7332ff303720d2632ac9aec5))
+
 # [1.13.0](https://github.com/ReVanced/revanced-integrations/compare/v1.12.0...v1.13.0) (2024-08-15)
 
 
